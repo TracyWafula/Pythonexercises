@@ -1,4 +1,4 @@
-
+#highest to lowest
 lst = []
 for count in range(6):
     x = int(input("Enter number"))
@@ -6,8 +6,8 @@ for count in range(6):
 print("Highest number", max(lst) )
 print("Lowest number", min(lst) )
 
-    
 
+    
 
 
     
