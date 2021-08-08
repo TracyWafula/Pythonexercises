@@ -1,4 +1,5 @@
 #Enter customer details
+#For Review
 print ("Kindly enter the details requested below:")
 name = input("Enter your full name: ")
 
